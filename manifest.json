@@ -1,0 +1,16 @@
+{
+    "name": "Cotação BTC",
+    "version": "1.0.0",
+    "description": "Cotação de Bitcoin",
+    "manifest_version": 3,
+    "author": "frenow",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Cotação BTC"
+    },
+  "icons": {
+    "16": "favicon.png",
+    "48": "favicon.png",
+    "128": "favicon.png"
+  }	
+}
